@@ -50,7 +50,7 @@ For Software:
 ![<img width="3188" height="1202" alt="frame (3)" src="" />](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![<img width="3188" height="1202" alt="frame (3)" src="" />](Add screenshot 2 here with proper name)
+![<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2025-08-09 164155.png" />](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 ![<img width="3188" height="1202" alt="frame (3)" src="Screenshot 2025-08-09 164116.png" />](Add screenshot 3 here with proper name)
