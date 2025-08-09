@@ -1,31 +1,31 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [GPA - LIFE PREDICTOR] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Cs1 coet]
 
 
 ### Team Members
 - Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 2: [Fathimathul Samiha - P] - [College of Engineering,Thalassery]
+- Member 3: [Fathima Zeba Samir] - [College of Engineering,Thalassery]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Our GPA - LIFE PREDICTOR will fake predict your future based on the CGPA you entered. It might be funny but not so serious.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[the urge to know about our future]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[randomly predit the future and give some funny preditions]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML,CSS,JAVASCRIPT]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,7 +47,7 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -88,8 +88,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- [Fathimathul Samiha - P]: [javascript and html]
+- [Fathima Zeba Samir]: [css and html]
 - [Name 3]: [Specific contributions]
 
 ---
